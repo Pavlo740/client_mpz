@@ -1,0 +1,36 @@
+/* Contact.module.css */
+
+.container {
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    margin: 15px;
+    padding: 25px;
+  }
+  
+  .contactInfo {
+    margin-top: 20px;
+  }
+  
+  .feedbackForm {
+    margin-top: 20px;
+  }
+  
+  .feedbackForm textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .feedbackForm button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .feedbackForm button:hover {
+    background-color: #0056b3;
+  }
+  
